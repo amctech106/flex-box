@@ -1,0 +1,21 @@
+.main{
+display: flex;
+justify-content: center;
+padding: 10px;
+}
+
+
+.child{
+    background-color: black;
+    height: 300px;
+    width: 250px;
+    margin: 10px;
+    border-radius: 10px;
+
+}
+
+.heading{
+    color:white;
+    text-align: center;
+    background-color: bisque;
+}
